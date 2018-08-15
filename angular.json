@@ -25,7 +25,18 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "assets/js/custom.js",
+              "plugins/whmpress/js/whmpress.js",
+              "plugins/whmpress/js/jquery.quicksearch.js",
+              "plugins/whmpress/includes/DataTables/datatables.min.js",
+              "js/wp-embed.min.js",
+              "core/shortcodes/assets/js/shortcode.js",
+              "../node_modules/jquery-ui/ui/widgets/accordion.js",
+              "../node_modules/jquery-ui/ui/widgets/tabs.js",
+              "plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.min.js",
+              "assets/js/jquery.loopslider.js"
+            ]
           },
           "configurations": {
             "production": {
