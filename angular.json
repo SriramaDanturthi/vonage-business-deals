@@ -23,19 +23,40 @@
               "src/assets"
             ],
             "styles": [
+              "assets/css/king-hosting.css",
+              "assets/css/reset.css",
+              "assets/css/main_menu/bootstrap.min.css",
+              "style.css",
+              "core/assets/css/animate.css",
+              "assets/css/king.css",
+              "assets/css/arkahost.css",
+              "core/shortcodes/assets/css/shortcodes.css",
+              "core/shortcodes/assets/css/box-shortcodes.css",
+              "assets/css/cube/cubeportfolio.min.css",
+              "assets/css/owl.transitions.css",
+              "assets/css/owl.carousel.css",
+              "assets/css/loopslider.css",
+              "assets/css/tabacc.css",
+              "assets/css/detached.css",
+              "assets/css/reslider.css",
+              "assets/css/whmpress.css",
+              "assets/css/main_menu/menu.css",
+              "plugins/js_composer/assets/css/js_composer.min.css",
+              //"plugins/contact-form-7/includes/css/styles.css",
+              "plugins/revslider/assets/css/settings.css",
               "src/styles.css"
             ],
             "scripts": [
               "assets/js/custom.js",
-              "plugins/whmpress/js/whmpress.js",
-              "plugins/whmpress/js/jquery.quicksearch.js",
-              "plugins/whmpress/includes/DataTables/datatables.min.js",
-              "js/wp-embed.min.js",
+              //"plugins/whmpress/js/whmpress.js",
+              //"plugins/whmpress/js/jquery.quicksearch.js",
+              //"plugins/whmpress/includes/DataTables/datatables.min.js",
+              //"js/wp-embed.min.js",
               "core/shortcodes/assets/js/shortcode.js",
-              "../node_modules/jquery-ui/ui/widgets/accordion.js",
-              "../node_modules/jquery-ui/ui/widgets/tabs.js",
-              "plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.min.js",
-              "assets/js/jquery.loopslider.js"
+              "node_modules/jquery-ui/ui/widgets/accordion.js",
+              "node_modules/jquery-ui/ui/widgets/tabs.js"
+              //"plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.min.js",
+              //"assets/js/jquery.loopslider.js"
             ]
           },
           "configurations": {
