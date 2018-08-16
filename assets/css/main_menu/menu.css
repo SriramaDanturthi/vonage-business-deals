@@ -157,7 +157,7 @@ padding-left: 5px;}
 	color: #fff;
 	font-size: 12px;
 	text-transform: uppercase;
-	background: #86c724;
+	background: #ff6e41;
 	padding: 10px 20px;
 	border-radius: 3px;
 	font-weight: 600;
@@ -215,7 +215,7 @@ padding-left: 5px;}
 .mega-menu-contnew .section-box a:hover strong,
 .mega-menu-contnew .section-box a:hover span,
 .mega-menu-contnew .section-box a:hover i {
-	color: #86c724;
+	color: #ff6e41;
 }
 
 .mega-menu-contnew .section-box.last {
@@ -257,7 +257,7 @@ padding-left: 5px;}
 	color: #fff;
 	font-size: 12px;
 	text-transform: uppercase;
-	background: #86c724;
+	background: #ff6e41;
 	padding: 10px 20px;
 	border-radius: 3px;
 	font-weight: 600;
@@ -907,7 +907,7 @@ button.navbar-toggle {
 
 @media only screen and (min-width: 480px) and (max-width: 639px){
 	
-	.header{top:90px;}
+	.header{top:50px;}
 	
 	body .menu_main {
 		position: absolute;
@@ -974,7 +974,7 @@ button.navbar-toggle {
 		margin-right: 0;
 	}
 
-	.header{top:90px;}
+	.header{top:50px;}
 	
 	.compact .header #logo{ background-position: left 10px;}
 	

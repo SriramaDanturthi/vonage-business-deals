@@ -48,7 +48,7 @@
 	letter-spacing: 2px;
 }
 .text2 em {
-	color: #86c724;
+	color: #ff6e41;
 	font-style: normal;
 }
 .text2 strong {
@@ -69,7 +69,7 @@
 	letter-spacing: 1px;
 }
 .text3 em {
-	color: #86c724;
+	color: #ff6e41;
 	font-style: normal;
 	font-weight: bold;
 }
@@ -91,7 +91,7 @@
 	text-align: center;
 }
 .text4 em {
-	color: #86c724;
+	color: #ff6e41;
 	font-style: normal;
 }
 .text4 strong {
@@ -126,8 +126,8 @@ body .bgclor-text {
 body .vline {
 	width: 1px;
 	height: 70px;
-	background: #86c724;
-	border-left: 1px solid #86c724;
+	background: #ff6e41;
+	border-left: 1px solid #ff6e41;
 }
 
 body .sbox1 {
@@ -137,7 +137,7 @@ body .sbox1 {
 	font-weight: 500;
 	line-height: 25px;
 	padding: 20px 16px 57px 20px;
-	background: #86c724;
+	background: #ff6e41;
 }
 body .sbox1 strong {
 	font-size: 27px;
@@ -161,7 +161,7 @@ body .sbut1, body .tp-caption .sbut1 {
 }
 .sbut1:hover, body .tp-caption .sbut1:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 
 
@@ -228,7 +228,7 @@ body .cirbox1 em {
 
 body .cirbox1.colored {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 
 body .dncfont {
@@ -249,7 +249,7 @@ body .cirbox2 {
 	height: 100px;
 	padding-top: 10px;
 	border-radius: 100%;
-	background: #86c724;
+	background: #ff6e41;
 }
 body .cirbox2 strong {
     font-size: 35px;
@@ -264,7 +264,7 @@ body .squarebox {
     font-size: 18px;
     font-weight: 400;
     padding: 23px 23px 16px 23px;
-    background: #86c724;
+    background: #ff6e41;
 }
 body .squarebox strong {
 	font-size: 45px;

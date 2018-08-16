@@ -422,7 +422,7 @@ body .address_info h4{
 	margin-bottom: 15px;
 }
 .blog_post h3 a{
-	color: #86c724;
+	color: #ff6e41;
 }
 .blog_post h3.entry-title a {
 	text-decoration: none;
@@ -626,7 +626,7 @@ ul.post_meta_links_small {
 	float: left;
 	border-radius: 2px;
 	list-style-type: none;
-	background-color: #86c724;
+	background-color: #ff6e41;
 }
 .sharepost li i {
 	color: #fff;
@@ -682,7 +682,7 @@ body .flexslider .wpb_single_image .vc_single_image-wrapper{
 	color: #333;
 }
 .about_author a:hover {
-	color: #86c724;
+	color: #ff6e41;
 }
 
 .widget_contents-component [class*="su-"] img{
@@ -794,7 +794,7 @@ h3.widget-title i {
 	width: 30%;
 	margin-left: -1px;
 	cursor: pointer;
-	background: #86c724;
+	background: #ff6e41;
 }
 #searchform #searchsubmit:hover,.widget_product_search input[type="submit"]:hover{
 	background: #333;
@@ -837,7 +837,7 @@ h3.widget-title i {
 #wp-calendar th{
 	text-align: center;
 	line-height: 30px;
-	background: #86c724;
+	background: #ff6e41;
 	color: #fff;	
 }
 #wp-calendar td{
@@ -878,7 +878,7 @@ ul.recent_posts_list {
 	color: #999;
 }
 .recent_posts_list li a:hover {
-	color: #86c724;
+	color: #ff6e41;
 }
 .recent_posts_list li img{
 	max-width: 100%;
@@ -971,7 +971,7 @@ ul.recent_posts_list {
 	display: block;
 	font-size: 18px;
 	line-height: 59px;
-	color: #86c724;
+	color: #ff6e41;
 	margin: 0;
 	font-style: normal;
 }
@@ -1074,7 +1074,7 @@ ul.tabs li.last {
 }
 
 ul.tabs li.active, html ul.tabs li.active a,  html ul.tabs li.active a:hover  {
-	background: #86c724;
+	background: #ff6e41;
 	color: #fff;
 }
 	
@@ -1124,7 +1124,7 @@ ul.tags {
 	margin: 0px 5px 5px 0px;
 }	
 .tags li a:hover,.tagcloud a:hover {
-	background-color: #86c724;
+	background-color: #ff6e41;
 	color: #fff;
 }
 .footer .tagcloud a{
@@ -1753,8 +1753,8 @@ body .parallax_section19 a:hover {
 	transition: color 0.1s linear 0s, background-color 0.1s linear 0s, border-color 0.1s linear 0s;
 }
 .king-cart-footer .k-cart-button:hover{
-	background: #86c724;
-	border: 2px solid #86c724;
+	background: #ff6e41;
+	border: 2px solid #ff6e41;
 }
 
 .no-product-in-cart{
@@ -2034,7 +2034,7 @@ cd-bounce-1 {  0% {
 
 .cd-timeline-content:after { clear: both; }
 
-.cd-timeline-content h2 { color: #86c724; font-weight: normal; margin-bottom: 0px;}
+.cd-timeline-content h2 { color: #ff6e41; font-weight: normal; margin-bottom: 0px;}
 
 .cd-timeline-content p,
 .cd-timeline-content .cd-read-more,
@@ -2061,7 +2061,7 @@ cd-bounce-1 {  0% {
   transition: all 0.3s ease;
 }
 
-.no-touch .cd-timeline-content .cd-read-more:hover { background-color: #86c724; }
+.no-touch .cd-timeline-content .cd-read-more:hover { background-color: #ff6e41; }
 
 .cd-timeline-content .cd-date {
   float: left;
@@ -2069,14 +2069,14 @@ cd-bounce-1 {  0% {
 }
 
 .cd-timeline-content .cd-date strong {
-	background-color: #86c724;
+	background-color: #ff6e41;
 	color: #fff;
 	padding: 5px 12px;
 }
 
 .cd-timeline-content .cd-date strong {
 	position: relative;
-	background: #86c724;
+	background: #ff6e41;
 }
 .cd-timeline-content .cd-date strong:after {
 	right: 100%;
@@ -2088,20 +2088,20 @@ cd-bounce-1 {  0% {
 	position: absolute;
 	pointer-events: none;
 	border-color: rgba(47, 146, 238, 0);
-	border-right-color: #86c724;
+	border-right-color: #ff6e41;
 	border-width: 8px;
 	margin-top: -8px;
 }
 
 .cd-timeline-content .cd-date b {
-	background-color: #86c724;
+	background-color: #ff6e41;
 	color: #fff;
 	padding: 5px 12px;
 }
 
 .cd-timeline-content .cd-date b {
 	position: relative;
-	background: #86c724;
+	background: #ff6e41;
 }
 .cd-timeline-content .cd-date b:after {
 	left: 100%;
@@ -2113,7 +2113,7 @@ cd-bounce-1 {  0% {
 	position: absolute;
 	pointer-events: none;
 	border-color: rgba(47, 146, 238, 0);
-	border-left-color: #86c724;
+	border-left-color: #ff6e41;
 	border-width: 8px;
 	margin-top: -8px;
 }

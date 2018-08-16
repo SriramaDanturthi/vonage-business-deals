@@ -25,6 +25,7 @@
     "font-awesome": "^4.7.0",
     "fontawesome": "^4.7.2",
     "google-fonts": "^1.0.0",
+    "jquery": "^3.3.1",
     "jquery-ui": "^1.12.1",
     "rxjs": "^6.0.0",
     "zone.js": "~0.8.26"

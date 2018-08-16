@@ -364,13 +364,13 @@ body .onecol_thirtyfive_less {
 }
 .tpbut:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 .tpbut:hover i {
 	color: #fff;
 }
 .top_nav .tpbut.minicart-nav:hover i{
-	color: #86c724;
+	color: #ff6e41;
 }
 .tpbut.two {
 	padding: 3px 0px 5px 0px;
@@ -397,7 +397,7 @@ body .onecol_thirtyfive_less {
     right: -10px;
     margin-top: -20px;
     display: block;
-    background: #86c724;
+    background: #ff6e41;
     border-radius: 3px;
     color: #FFF;
     text-align: center;
@@ -475,7 +475,7 @@ body .onecol_thirtyfive_less {
 .yamm-content .section-box a:hover strong,
 .yamm-content .section-box a:hover span,
 .yamm-content .section-box a:hover i {
-	color: #86c724;
+	color: #ff6e41;
 }
 
 .yamm-content .section-box.last {
@@ -517,7 +517,7 @@ body .onecol_thirtyfive_less {
 	color: #fff;
 	font-size: 12px;
 	text-transform: uppercase;
-	background: #86c724;
+	background: #ff6e41;
 	padding: 10px 20px;
 	border-radius: 3px;
 	font-weight: 600;
@@ -572,7 +572,7 @@ body .onecol_thirtyfive_less {
 	color: #fff;
 	font-size: 12px;
 	text-transform: uppercase;
-	background: #86c724;
+	background: #ff6e41;
 	padding: 10px 20px;
 	border-radius: 3px;
 	font-weight: 600;
@@ -582,7 +582,7 @@ body .onecol_thirtyfive_less {
 	color: #fff;
 	font-size: 12px;
 	text-transform: uppercase;
-	background: #86c724;
+	background: #ff6e41;
 	padding: 10px 20px;
 	border-radius: 3px;
 	font-weight: 600;
@@ -621,7 +621,7 @@ body .onecol_thirtyfive_less {
 	float: left;
 	font-family: 'Roboto', sans-serif;
 	padding: 15px 25px 16px 25px;
-	background-color: #86c724;
+	background-color: #ff6e41;
 	border: 0px;
 	font-size: 18px;
 	font-weight: 500;
@@ -632,7 +632,7 @@ body .onecol_thirtyfive_less {
 	margin-left: 12px;
 }
 .domain_search .serch_area .input_submit:hover {
-	color: #86c724;
+	color: #ff6e41;
 	cursor: pointer;
 	background-color: #fff;
 }
@@ -640,7 +640,7 @@ body .onecol_thirtyfive_less {
 #domain_search_results .input_select {
 	font-family: 'Roboto', sans-serif;
 	padding: 15px 25px 16px 25px;
-	background-color: #86c724;
+	background-color: #ff6e41;
 	border: 0px;
 	font-size: 18px;
 	font-weight: 500;
@@ -651,7 +651,7 @@ body .onecol_thirtyfive_less {
 	margin-left: 12px;
 }
 #domain_search_results .input_select:hover {
-	color: #86c724;
+	color: #ff6e41;
 	cursor: pointer;
 	background-color: #fff;
 }
@@ -764,7 +764,7 @@ body .onecol_thirtyfive_less {
 	float: left;
 	font-family: 'Roboto', sans-serif;
 	padding: 15px 25px 16px 25px;
-	background-color: #86c724;
+	background-color: #ff6e41;
 	border: 0px;
 	font-size: 18px;
 	font-weight: 500;
@@ -775,7 +775,7 @@ body .onecol_thirtyfive_less {
 	margin-left: 12px;
 }
 .domain_search.sty2 .serch_area .input_submit:hover {
-	color: #86c724;
+	color: #ff6e41;
 	cursor: pointer;
 	background-color: #fff;
 }
@@ -859,7 +859,7 @@ body .onecol_thirtyfive_less {
 }
 .host_plans .planbox .prices a:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 .host_plans .planbox ul {
 	float: left;
@@ -880,13 +880,13 @@ body .onecol_thirtyfive_less {
 }
 
 .host_plans .planbox.highlight .prices {
-	background: #86c724;
+	background: #ff6e41;
 }
 .host_plans .planbox.highlight .prices:before {
-	border-top: 21px solid #86c724;
+	border-top: 21px solid #ff6e41;
 }
 .host_plans .planbox.highlight .prices a {
-	color: #86c724;
+	color: #ff6e41;
 	background: #fff;
 }
 .host_plans .planbox.highlight .prices a:hover {
@@ -931,7 +931,7 @@ body .onecol_thirtyfive_less {
 	margin-right: 3px;
 }
 .host_plans_sty3 .one_third .price h1 {
-	color: #86c724;
+	color: #ff6e41;
 	font-weight: 300;
 }
 .host_plans_sty3 .one_third .price h1 strong {
@@ -948,7 +948,7 @@ body .onecol_thirtyfive_less {
 	font-size: 16px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #86c724;
+	background: #ff6e41;
 	padding: 14px 32px;
 	border-radius: 27px;
 	white-space: nowrap;
@@ -1162,7 +1162,7 @@ body .features_sec40 h6 {
 }
 .feature_section101 .sprice a {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 	padding: 0px 30px 2px 30px;
 	border-radius: 3px;
 	font-size: 45px;
@@ -1215,7 +1215,7 @@ body .features_sec40 h6 {
 	margin: 0px 20px 5px 0px;
 }
 .feature_section102 .plan h2 strong {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 45px;
 	font-weight: 900;
 }
@@ -1329,7 +1329,7 @@ body .features_sec40 h6 {
 	color: #fff;
 	font-size: 18px;
 	font-weight: 400;
-	background: #86c724;
+	background: #ff6e41;
 	padding: 9px 27px 10px 27px;
 	border-bottom-left-radius: 3px;
 	border-bottom-right-radius: 3px;
@@ -1465,7 +1465,7 @@ body .features_sec40 h6 {
 }
 .feature_section106 .left .climg strong {
 	float: left;
-	color: #86c724;
+	color: #ff6e41;
 }
 .feature_section106 .left .climg em {
 	font-size: 12px;
@@ -1514,7 +1514,7 @@ body .features_sec40 h6 {
 .feature_section107 h1 a {
 	color: #fff;
 	font-weight: 700;
-	background: #86c724;
+	background: #ff6e41;
 	padding: 2px 10px 2px 10px;
 	border-radius: 3px;
 	margin-left: 5px;
@@ -1700,7 +1700,7 @@ body .features_sec40 h6 {
 	font-size: 14px;
 	padding: 10px 0px;
 	border-radius: 3px;
-	background: #86c724;
+	background: #ff6e41;
 	text-align: center;
 	margin: 30px 20px 30px 30px;
 	width: 10%;
@@ -1730,7 +1730,7 @@ body .features_sec40 h6 {
 	float:left;
 }
 .feature_section3_elm .lstblogs h4 a:hover {
-	color: #86c724;
+	color: #ff6e41;
 }
 
 
@@ -1752,7 +1752,7 @@ body .features_sec40 h6 {
 	background: #2a363f;
 }
 .feature_section4 .center {
-	background: #86c724;
+	background: #ff6e41;
 }
 .feature_section4 .right {
 	background: #f3f3f3;
@@ -1853,7 +1853,7 @@ body .features_sec40 h6 {
 	height: auto !important;
 }
 .feature_section6_elm .item strong {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 16px;
 	font-weight: 600;
 }
@@ -1926,7 +1926,7 @@ body .feature_section7 .one_fifth_less  h5, body #main .feature_section7 .one_fi
 	width: 100%;
 }
 .feature_section8_elm i {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 14px;
 }
 
@@ -2025,7 +2025,7 @@ body .feature_section7 .one_fifth_less  h5, body #main .feature_section7 .one_fi
   transform: translateY(70%);
 }
 .feature_section11 .tabs > li.active {
-  color: #86c724;
+  color: #ff6e41;
 }
 .feature_section11 .tabs > li.active:before{
   transition-duration: .5s;
@@ -2353,7 +2353,7 @@ body .feature_section7 .one_fifth_less  h5, body #main .feature_section7 .one_fi
 }
 .feature_section15_elm .one_fourth_less a:hover i  {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 /* feature section 16 */
 .feature_section16 {
@@ -2391,7 +2391,7 @@ body .feature_section7 .one_fifth_less  h5, body #main .feature_section7 .one_fi
 	color: #fff;
 	border-radius: 3px;
 	padding: 13px 27px;
-	background: #86c724;
+	background: #ff6e41;
 	text-transform: uppercase;
 	white-space: nowrap;
 	transition: all 0.3s ease;
@@ -2415,7 +2415,7 @@ body .feature_section7 .one_fifth_less  h5, body #main .feature_section7 .one_fi
 	font-size: 16px;
 	font-weight: 700;
 	text-transform: uppercase;
-	background: #86c724;
+	background: #ff6e41;
 	padding: 14px 32px;
 	border-radius: 27px;
 	white-space: nowrap;
@@ -2617,7 +2617,7 @@ body .price_compare .first.rowfirst p{
 	margin-bottom: 18px;
 }
 .price_compare .prices strong {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 45px;
 	font-weight: 800;
 	display: block;
@@ -2654,7 +2654,7 @@ body .price_compare .first.rowfirst p{
 }
 .price_compare .prices a:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 
 .price_compare .rowsremain.center {
@@ -2669,7 +2669,7 @@ body .price_compare .first.rowfirst p{
 }
 .price_compare .rowsremain.center .prices a:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 .price_compare .rowsremain.center .prices i {
 	color: #fff;
@@ -2677,7 +2677,7 @@ body .price_compare .first.rowfirst p{
 .price_compare .rowsremain.center .span {
 	color: #fff;
 	padding: 3px 10px 4px 10px;
-	background: #86c724;
+	background: #ff6e41;
 	margin-top: -62px;
 	margin-bottom: 32px;
 	display: block;
@@ -2987,7 +2987,7 @@ body .price_compare .first.rowfirst.first-row{
 	margin-bottom: 5px;
 }
 .footer .ftop .left h1 {
-    color: #86c724;
+    color: #ff6e41;
     font-size: 45px;
     font-weight: 900;
     letter-spacing: 1px;
@@ -3034,7 +3034,7 @@ body .price_compare .first.rowfirst.first-row{
 	margin-left: 12px;
 }
 .footer .ftop .right .input_submit:hover {
-	color: #86c724;
+	color: #ff6e41;
 	cursor: pointer;
 	background-color: #fff;
 }
@@ -3042,7 +3042,7 @@ body .price_compare .first.rowfirst.first-row{
 .footer .secarea {
 	float: left;
 	width: 100%;
-	padding: 75px 0px 35px 0px;
+	padding: 35px 0px 0px 0px !important;
 	background: #2a363f url(../images/footer-bg-graph.png) no-repeat center bottom;
 }
 .footer .secarea h3.widget-title {
@@ -3134,7 +3134,7 @@ body .price_compare .first.rowfirst.first-row{
 	transition: all 0.3s ease;
 }
 .footer .secarea .address a:hover {
-	color: #86c724;
+	color: #ff6e41;
 }
 .footer .secarea .address a.smbut {
 	font-size: 12px;
@@ -4180,7 +4180,7 @@ ul.adsbanner-list {
 	padding: 14px 20px;
 	font-size: 14px;
 	font-weight: 500;
-	background: #86c724;
+	background: #ff6e41;
 	border: 1px solid #7ea821;
 	border-radius: 3px;
 	font-family: 'Raleway', sans-serif;

@@ -2,7 +2,7 @@
    SHORTCODE ELEMENTS
 ------------------------------------------------------*/
 .button.one {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 14px;
 	text-transform: uppercase;
 	background: #fff;
@@ -14,14 +14,14 @@
 }
 .button.one:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 
 .button.two {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 14px;
 	text-transform: uppercase;
-	border: 2px solid #86c724;
+	border: 2px solid #ff6e41;
 	padding: 9px 20px;
 	border-radius: 3px;
 	white-space: nowrap;
@@ -30,11 +30,11 @@
 }
 .button.two:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 
 .button.three {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 14px;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -47,20 +47,20 @@
 }
 .button.three:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 .button.three.dark {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 .button.three.dark:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 
 
 .button.three {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 14px;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -73,19 +73,19 @@
 }
 .button.three:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 .button.three.dark {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 .button.three.dark:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 
 .button.four {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 18px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -94,16 +94,16 @@
 	white-space: nowrap;
 	transition: all 0.3s ease;
 	font-family: 'Roboto', sans-serif;
-	border: 1px solid #86c724;
+	border: 1px solid #ff6e41;
 }
 .button.four:hover {
 	color: #fff;
-	background: #86c724;
-	border: 1px solid #86c724;
+	background: #ff6e41;
+	border: 1px solid #ff6e41;
 }
 
 .button.five {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 16px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -116,12 +116,12 @@
 }
 .button.five:hover {
 	color: #fff;
-	background: #86c724;
+	background: #ff6e41;
 }
 
 
 .button.six {
-	color: #86c724;
+	color: #ff6e41;
 	font-size: 14px;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -130,12 +130,12 @@
 	white-space: nowrap;
 	transition: all 0.3s ease;
 	font-family: 'Roboto', sans-serif;
-	border: 2px solid #86c724;
+	border: 2px solid #ff6e41;
 }
 .button.six:hover {
 	color: #fff;
-	background: #86c724;
-	border: 2px solid #86c724;
+	background: #ff6e41;
+	border: 2px solid #ff6e41;
 }
 
 
@@ -3389,7 +3389,7 @@ body .fati19 {
 	width:100%;
 	padding:50px 35px;
 	color: #fff;
-	background-color:#86c724;
+	background-color:#ff6e41;
     z-index: 1;
 	height:320px;
 	margin: 0px;

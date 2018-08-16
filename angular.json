@@ -44,17 +44,36 @@
               "plugins/js_composer/assets/css/js_composer.min.css",
               //"plugins/contact-form-7/includes/css/styles.css",
               "plugins/revslider/assets/css/settings.css",
-              "src/styles.css"
+              "src/styles.css",
+              "assets/css/responsive.css",
+              "assets/css/responsive-tabs.css",
+              "assets/css/responsive-portfolio.css"
             ],
             "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "assets/js/king.user.js",
               "assets/js/custom.js",
               //"plugins/whmpress/js/whmpress.js",
               //"plugins/whmpress/js/jquery.quicksearch.js",
               //"plugins/whmpress/includes/DataTables/datatables.min.js",
               //"js/wp-embed.min.js",
               "core/shortcodes/assets/js/shortcode.js",
+              "node_modules/jquery-ui/ui/widget.js",
               "node_modules/jquery-ui/ui/widgets/accordion.js",
-              "node_modules/jquery-ui/ui/widgets/tabs.js"
+              "node_modules/jquery-ui/ui/widgets/tabs.js",
+              "plugins/revslider/assets/js/jquery.themepunch.tools.min.js",
+              "plugins/revslider/assets/js/jquery.themepunch.revolution.min.js",
+              "plugins/revslider/assets/js/extensions/revolution.extension.actions.min.js",
+              "plugins/revslider/assets/js/extensions/revolution.extension.carousel.min.js",
+              "plugins/revslider/assets/js/extensions/revolution.extension.kenburn.min.js",
+              "plugins/revslider/assets/js/extensions/revolution.extension.layeranimation.min.js",
+              "plugins/revslider/assets/js/extensions/revolution.extension.migration.min.js",
+              "plugins/revslider/assets/js/extensions/revolution.extension.navigation.min.js",
+              "plugins/revslider/assets/js/extensions/revolution.extension.parallax.min.js",
+              "plugins/revslider/assets/js/extensions/revolution.extension.slideanims.min.js",
+              "plugins/revslider/assets/js/extensions/revolution.extension.video.min.js"
+
+
               //"plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.min.js",
               //"assets/js/jquery.loopslider.js"
             ]
@@ -106,7 +125,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              
+            ],
             "assets": [
               "src/favicon.ico",
               "src/assets"

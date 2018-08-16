@@ -1,5 +1,4 @@
 /***** Ajax login script ******/
-var $ = jQuery;
 $(document).ready(function($){
 	
 	$('#king-form .btn-login').off('click').on('click', function(e){

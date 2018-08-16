@@ -236,7 +236,7 @@ body,a{
     border: none;
 }  
 .king-tabs.detached ul.king-tabs-nav li.ui-tabs-active a,.king-tabs.detached ul.king-tabs-nav a:hover{
-	background: #86c724;
+	background: #ff6e41;
 	color: #fff;
 } 
 .king-tabs.detached .king-tabs-panes{
