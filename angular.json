@@ -42,7 +42,6 @@
               "assets/css/whmpress.css",
               "assets/css/main_menu/menu.css",
               "plugins/js_composer/assets/css/js_composer.min.css",
-              //"plugins/contact-form-7/includes/css/styles.css",
               "plugins/revslider/assets/css/settings.css",
               "src/styles.css",
               "assets/css/responsive.css",
@@ -53,10 +52,6 @@
               "node_modules/jquery/dist/jquery.min.js",
               "assets/js/king.user.js",
               "assets/js/custom.js",
-              //"plugins/whmpress/js/whmpress.js",
-              //"plugins/whmpress/js/jquery.quicksearch.js",
-              //"plugins/whmpress/includes/DataTables/datatables.min.js",
-              //"js/wp-embed.min.js",
               "core/shortcodes/assets/js/shortcode.js",
               "node_modules/jquery-ui/ui/widget.js",
               "node_modules/jquery-ui/ui/widgets/accordion.js",
@@ -72,10 +67,6 @@
               "plugins/revslider/assets/js/extensions/revolution.extension.parallax.min.js",
               "plugins/revslider/assets/js/extensions/revolution.extension.slideanims.min.js",
               "plugins/revslider/assets/js/extensions/revolution.extension.video.min.js"
-
-
-              //"plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.min.js",
-              //"assets/js/jquery.loopslider.js"
             ]
           },
           "configurations": {
